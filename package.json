@@ -1,0 +1,17 @@
+{
+  "name": "json-server-heroku",
+  "version": "1.0.0",
+  "description": "json server on Heroku",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [
+    "json-server,heroku, node, REST API"
+  ],
+  "author": "Harsha",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.12.1"
+  }
+}
